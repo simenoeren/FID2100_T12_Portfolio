@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="no">
+  <head>
+    <meta charset="utf-8" />
+    <title>Portfolio</title>
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content="Junior UX/UI designer" />
+    <link rel="stylesheet" href="../css/fonts.css" />
+    <link rel="stylesheet" href="../css/variables.css" />
+    <link rel="stylesheet" href="../css/reset.css" />
+    <link rel="stylesheet" href="../css/style.css" />
+    <script type="module" src="../js/app.js"></script>
+  </head>
+  <body>
+    <header class="header">
+      <div class="header--centered">
+        <a
+          href="/"
+          class="logo__container flex--horisontal"
+          aria-label="back to homepage"
+        >
+          <img src="../assets/simen-logo-big.svg" class="logo__icon" />
+          <p class="logo__text">Simen Øren</p>
+        </a>
+        <nav class="nav__desktop">
+          <ul>
+            <li>
+              <a href="../html/about.html" class="nav__button">
+                <img
+                  src="../assets/icons/Icon=User, Size=Big.svg"
+                  class="icon"
+                  aria-hidden="true"
+                />
+                <p class="icon__text">Meg</p>
+              </a>
+            </li>
+            <li>
+              <a href="../html/contact.html" class="nav__button">
+                <img
+                  src="../assets/icons/Icon=Send, Size=Big.svg"
+                  class="icon"
+                  aria-hidden="true"
+                />
+                <p class="icon__text">Kontakt</p>
+              </a>
+            </li>
+          </ul>
+        </nav>
+        <nav class="nav__mobile">
+          <ul>
+            <li>
+              <a href="../html/projects.html" class="nav__button--mobile">
+                <img
+                  src="../assets/icons/Icon=Project, Size=Big.svg"
+                  class="icon"
+                />
+                <p class="icon__text--mobile">Prosjekter</p>
+              </a>
+            </li>
+            <li>
+              <a href="../html/about.html" class="nav__button--mobile">
+                <img
+                  src="../assets/icons/Icon=User, Size=Big.svg"
+                  class="icon"
+                />
+                <p class="icon__text--mobile">Om meg</p>
+              </a>
+            </li>
+            <li>
+              <a href="../html/contact.html" class="nav__button--mobile">
+                <img
+                  src="../assets/icons/Icon=Send, Size=Big.svg"
+                  class="icon"
+                />
+                <p class="icon__text--mobile">Kontakt</p>
+              </a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main class="project--centered">
+      <section class="project__hero">
+        <h1 class="project__h1"></h1>
+        <img
+          class="project--cover"
+          alt="Nasjonalmuseet's logo and a showcase of the app prototype"
+        />
+      </section>
+      <div class="linebreak__gradient"></div>
+      <section class="project__intro--bg">
+        <div class="project__intro">
+          <div>
+            <h2>Introduksjon</h2>
+            <div id="project-intro"></div>
+          </div>
+          <div>
+            <h2>Prosjektdetaljer</h2>
+            <div class="projectdetails__wrapper">
+              <p>Prosjekttype:</p>
+              <div id="project-type"></div>
+              <p>Leveranse:</p>
+              <div id="project-delivery"></div>
+              <p>Tidsramme:</p>
+              <div id="project-time"></div>
+              <p>Løsningen:</p>
+              <div id="project-solution"></div>
+              <p>Lenker:</p>
+              <div id="project-link"></div>
+              <p>Verktøy:</p>
+              <div class="tools--wrapper" id="tools--wrapper"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="project__article--bg">
+        <div class="project__article" id="project-process"></div>
+      </section>
+    </main>
+  </body>
+</html>

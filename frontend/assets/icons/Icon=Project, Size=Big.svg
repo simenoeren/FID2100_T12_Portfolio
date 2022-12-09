@@ -1,0 +1,10 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M12 21H20" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path d="M12 15H20" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path d="M20.5 6H22.5C23.8807 6 25 7.11929 25 8.5V26.5C25 27.8807 23.8807 29 22.5 29H9.5C8.11929 29 7 27.8807 7 26.5V8.5C7 7.11929 8.11929 6 9.5 6H11.5" stroke="white" stroke-width="2"/>
+<mask id="path-4-outside-1_222_4271" maskUnits="userSpaceOnUse" x="10" y="2" width="12" height="8" fill="black">
+<rect fill="white" x="10" y="2" width="12" height="8"/>
+<path d="M19.5 8C19.7761 8 20.0032 7.77527 19.9688 7.50128C19.8586 6.6243 19.46 5.80319 18.8284 5.17157C18.0783 4.42143 17.0609 4 16 4C14.9391 4 13.9217 4.42143 13.1716 5.17157C12.54 5.80319 12.1414 6.6243 12.0312 7.50128C11.9968 7.77527 12.2239 8 12.5 8L16 8H19.5Z"/>
+</mask>
+<path d="M19.5 8C19.7761 8 20.0032 7.77527 19.9688 7.50128C19.8586 6.6243 19.46 5.80319 18.8284 5.17157C18.0783 4.42143 17.0609 4 16 4C14.9391 4 13.9217 4.42143 13.1716 5.17157C12.54 5.80319 12.1414 6.6243 12.0312 7.50128C11.9968 7.77527 12.2239 8 12.5 8L16 8H19.5Z" stroke="white" stroke-width="4" mask="url(#path-4-outside-1_222_4271)"/>
+</svg>
