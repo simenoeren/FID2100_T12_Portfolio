@@ -1,24 +1,15 @@
 <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_222_4264)">
-<circle cx="18" cy="18" r="18" fill="white"/>
-<circle cx="18" cy="18" r="18" fill="url(#paint0_linear_222_4264)"/>
+<ellipse cx="18" cy="18" rx="18" ry="18" fill="url(#paint0_linear_479_26505)"/>
 <g style="mix-blend-mode:color-dodge">
-<path d="M17.5591 18.0326C22.296 20.2397 21.7743 27.2904 18.5807 29.3227C31.0646 27.5807 29.3915 19.4468 20.6397 15.369C13.8054 12.1846 18.5807 8.41946 20.1133 7.05171C10.0982 6.54906 6.83726 13.0369 17.5591 18.0326Z" fill="#9B8C00"/>
+<path d="M12.294 16.6588C16.7735 18.5994 21.65 16.6588 26.1979 20.1595C27.6738 17.8658 25.9416 15.582 22.9317 14.8476C19.5995 14.0346 16.6299 14.8476 15.4047 14.0346C14.1795 13.2215 14.9263 11.5062 16.6299 11.1529C18.3336 10.7996 22.4136 10.7996 26.3736 13.7996C25.6056 7.2349 17.7336 7.19953 14.2536 8.39944C10.067 9.84298 7.81459 14.7182 12.294 16.6588Z" fill="#E3B68B"/>
 </g>
 <g style="mix-blend-mode:color-dodge">
-<circle cx="13.4418" cy="24.121" r="5.51613" transform="rotate(24.9827 13.4418 24.121)" fill="#B37D2C"/>
-</g>
-<g style="mix-blend-mode:color-dodge">
-<circle cx="23.1761" cy="9.00481" r="2.6129" transform="rotate(9.98267 23.1761 9.00481)" fill="#B37D2C"/>
-</g>
+<path d="M23.7995 20.3007C19.32 18.3601 14.4435 20.3007 9.89562 16.8C8.41973 19.0937 10.1519 21.3775 13.1618 22.1119C16.494 22.9249 19.4636 22.1119 20.6888 22.9249C21.914 23.738 21.1672 25.4533 19.4636 25.8066C17.7599 26.1599 13.6799 26.1599 9.71993 23.1599C10.4879 29.7246 18.3599 29.7599 21.8399 28.56C26.0265 27.1165 28.2789 22.2412 23.7995 20.3007Z" fill="#E3B68B"/>
 </g>
 <defs>
-<linearGradient id="paint0_linear_222_4264" x1="18" y1="0" x2="18" y2="36" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FF9899"/>
-<stop offset="1" stop-color="#8E35FF"/>
+<linearGradient id="paint0_linear_479_26505" x1="18" y1="3.8147e-06" x2="18" y2="36" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF5C52"/>
+<stop offset="1" stop-color="#95327F"/>
 </linearGradient>
-<clipPath id="clip0_222_4264">
-<rect width="36" height="36" rx="18" fill="white"/>
-</clipPath>
 </defs>
 </svg>

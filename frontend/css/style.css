@@ -306,7 +306,7 @@ p {
   }
 
   .card__image--nasjonalmuseet:hover {
-    background-color: #481F30;
+    background-color: #481f30;
   }
 }
 
@@ -571,14 +571,15 @@ p {
   width: 100%;
   display: flex;
   flex-flow: row nowrap;
-  gap: 2rem;
+  justify-content: space-between;
 }
 .gallery--column {
   display: flex;
   flex-flow: column nowrap;
   width: auto;
+  gap: 0.5rem;
 }
-.gallery--link  {
+.gallery--link {
 }
 
 .gallery--link:hover {
@@ -586,7 +587,20 @@ p {
 }
 
 .gallery-img {
-  width: 300px;
+  width: 14rem;
+}
+
+.text__semibold40 {
+  font-weight: 600;
+  font-size: 2.5rem;
+}
+
+.viewblogpost--container {
+  border-radius: 2rem;
+  background-color: #1a1c30;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /*End gallery*/
