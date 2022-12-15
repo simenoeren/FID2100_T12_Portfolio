@@ -375,6 +375,7 @@ p {
   display: flex;
   flex-flow: column nowrap;
   gap: 2rem;
+  height: auto;
 }
 
 .project__article--bg {
@@ -491,7 +492,7 @@ p {
 }
 
 .tools--wrapper {
-  max-height: 2.5rem;
+  max-height: 2rem;
   display: flex;
   flex-flow: row wrap;
   align-items: center;
@@ -499,8 +500,14 @@ p {
 }
 
 .tool--image {
-  height: 2.5rem;
+  height: 2rem;
   width: auto;
+}
+
+.tool {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
 }
 
 @media screen and (min-width: 375px) {
