@@ -583,7 +583,7 @@ p {
 }
 
 .gallery--link:hover {
-  width: 110%;
+  border-radius: 100px;
 }
 
 .gallery-img {
