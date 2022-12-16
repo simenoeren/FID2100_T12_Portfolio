@@ -300,16 +300,16 @@ p {
   display: flex;
   flex-flow: row nowrap;
   align-items: center;
-  gap: 1rem;
+  gap: 3rem;
 }
 
-.icon-big {
+.icon--big {
   height: 2rem;
   padding: 1rem;
   border-radius: 5rem;
 }
 
-.icon-big:hover {
+.icon--big:hover {
   background-color: #1c1b1f;
 }
 
@@ -317,11 +317,18 @@ p {
   font-weight: 400;
 }
 
+.grid--aboutinfo {
+  display: grid;
+  grid-template-columns: 8rem auto;
+  width: 100%;
+  line-height: 180%;
+}
+
 .grid--contactinfo {
   display: grid;
-  grid-template-columns: 7rem auto;
+  grid-template-columns: 5rem auto;
   width: 100%;
-  column-gap: 1rem;
+  line-height: 180%;
 }
 
 .text--blue {
@@ -632,7 +639,7 @@ p {
 
 .primary-button2 {
   height: 3rem;
-  width: 16rem;
+  width: 17.4rem;
   color: #fff;
   text-decoration: none;
   display: flex;
