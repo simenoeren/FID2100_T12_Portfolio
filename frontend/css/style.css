@@ -300,17 +300,7 @@ p {
   display: flex;
   flex-flow: row nowrap;
   align-items: center;
-  gap: 3rem;
-}
-
-.icon--big {
-  height: 2rem;
-  padding: 1rem;
-  border-radius: 5rem;
-}
-
-.icon--big:hover {
-  background-color: #1c1b1f;
+  gap: 3.14rem;
 }
 
 .text-h2 {
